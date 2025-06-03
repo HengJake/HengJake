@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Web Developer | Frontend & Backend Enthusiast  <br>🚀 Passionate about building responsive, accessible, and user-focused websites.  <br>📚 Constantly learning new technologies & frameworks.  <br>🛠️ Tech stack: HTML, CSS, JavaScript, React, Web3.js, PHP, MySQL, SCSS  <br>🌱 Currently exploring: React, SCSS  
+💻 Web Developer | Frontend & Backend Enthusiast  <br>🚀 Passionate about building responsive, accessible, and user-focused websites.  <br>📚 Constantly learning new technologies & frameworks.  <br>🛠️ Tech stack: HTML, CSS, JavaScript, React, Web3.js, PHP, MySQL (SQL), SCSS, MongoDB (NoSQL), Express.js, React.js, Node.js  <br>🌱 Currently exploring: React, SCSS  
 
 
 ## 🌐 Socials:
